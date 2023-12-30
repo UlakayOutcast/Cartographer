@@ -1,4 +1,4 @@
-# Cartographer 1.12.2 TurtleWoW
+# Cartographer 1.12.2 for TurtleWoW 1.17.1
 
 An add-on with a bug fixed, due to newly added zones.
 
