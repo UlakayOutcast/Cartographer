@@ -1,6 +1,8 @@
-# Cartographer TurtleWoW
+# Cartographer 1.12.2 TurtleWoW
 
-Due to the new locations, some additions requiring the addition !Libs began to display a mistake due to the lack of lines of code with the names of zones in the Babble-Zone-2.2.LUA file.
+An add-on with a bug fixed, due to newly added zones.
+
+Due to the new locations, some additions requiring the addition !Libs began to display a mistake due to the lack of lines of code with the names of zones in the Babble-Zone-2.2.lua file.
 
 In this archive - fixed the Babble-Zone-2.2.lua file, with the added names of the new zones found by me.
 
