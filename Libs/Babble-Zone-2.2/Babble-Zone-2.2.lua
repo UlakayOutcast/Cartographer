@@ -148,6 +148,7 @@ BabbleZone:RegisterTranslations("enUS", function()
 		["Winter Veil Vale"] = true,
 		["Thalassian Highlands"] = true,
 		["Crescent Grove"] = true,
+		["Gilneas City"] = true,
 		
 		-- Burning Crusade
 		
