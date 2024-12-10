@@ -149,6 +149,9 @@ BabbleZone:RegisterTranslations("enUS", function()
 		["Thalassian Highlands"] = true,
 		["Crescent Grove"] = true,
 		["Gilneas City"] = true,
+		["Blackstone Island"] = true,
+		["Stormwind Vault"] = true,
+		["Karazhan Crypt"] = true,
 		
 		-- Burning Crusade
 		
