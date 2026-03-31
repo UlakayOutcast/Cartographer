@@ -159,6 +159,7 @@ BabbleZone:RegisterTranslations("enUS", function()
 		["Balor"] = true,
 		["Stormwrought Ruins"] = true,
 		["Frostmane Hollow"] = true,
+		["Windhorn Caverns"] = true,
 		
 		-- Burning Crusade
 		
