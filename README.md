@@ -1,4 +1,4 @@
-# Cartographer 1.12 for TurtleWoW 1.17.1
+Cartographer 1.12 for TurtleWoW 1.17.1
 
 An add-on with a bug fixed, due to newly added zones.
 
@@ -6,5 +6,14 @@ Due to the new locations, some additions requiring the addition !Libs began to d
 
 In this archive - fixed the Babble-Zone-2.2.lua file, with the added names of the new zones found by me.
 
-At the moment, the following have been added:
-Alah'thalas, Amani'alor, Scarlet Monastery Library, Scarlet Monastery, Armory, Scarlet Monastery Cathedral, Lapidis Isle, Gillijim's Isle, Tel'Abim, Icepoint Rock, Alah'Thalas, Gilneas, Amani'Alor, Hateforge Quarry, Scarlet Enclave, The Black Morass, Scarlet Monastery Graveyard, Winter Veil Vale, Thalassian Highlands, Crescent Grove, Gilneas City, Blackstone Island, Stormwind Vault, Karazhan Crypt.
+At the moment, the following have been added: Alah'thalas, Amani'alor, Scarlet Monastery Library, Scarlet Monastery, Armory, Scarlet Monastery Cathedral, Lapidis Isle, Gillijim's Isle, Tel'Abim, Icepoint Rock, Alah'Thalas, Gilneas, Amani'Alor, Hateforge Quarry, Scarlet Enclave, The Black Morass, Scarlet Monastery Graveyard, Winter Veil Vale, Thalassian Highlands, Crescent Grove, Gilneas City, Blackstone Island, Stormwind Vault, Karazhan Crypt, Northwind, Grim Reaches, Dragonmaw Retreat, Balor, Stormwrought Ruins, Frostmane Hollow, Windhorn Caverns, Windhorn Canyon.
+
+Additions:
+
+https://github.com/UlakayOutcast/Cartographer_Herbalism
+
+https://github.com/UlakayOutcast/Cartographer_Mining
+
+https://github.com/UlakayOutcast/Cartographer_Survival
+
+https://github.com/UlakayOutcast/Cartographer_Treasure

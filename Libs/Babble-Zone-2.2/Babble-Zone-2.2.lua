@@ -152,7 +152,6 @@ BabbleZone:RegisterTranslations("enUS", function()
 		["Blackstone Island"] = true,
 		["Stormwind Vault"] = true,
 		["Karazhan Crypt"] = true,
-		["Northwind "] = true,
 		["Northwind"] = true,
 		["Grim Reaches"] = true,
 		["Dragonmaw Retreat"] = true,
@@ -160,6 +159,7 @@ BabbleZone:RegisterTranslations("enUS", function()
 		["Stormwrought Ruins"] = true,
 		["Frostmane Hollow"] = true,
 		["Windhorn Caverns"] = true,
+		["Windhorn Canyon"] = true,
 		
 		-- Burning Crusade
 		
