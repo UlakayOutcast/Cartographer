@@ -160,6 +160,7 @@ BabbleZone:RegisterTranslations("enUS", function()
 		["Frostmane Hollow"] = true,
 		["Windhorn Caverns"] = true,
 		["Windhorn Canyon"] = true,
+		["Timbermaw Tunnels"] = true,
 		
 		-- Burning Crusade
 		
