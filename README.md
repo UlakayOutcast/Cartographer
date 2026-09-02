@@ -1,4 +1,4 @@
-Cartographer 1.12 for TurtleWoW 1.18.1
+Cartographer 1.12 for Octo WoW 1.18.1
 
 An add-on with a bug fixed, due to newly added zones.
 
